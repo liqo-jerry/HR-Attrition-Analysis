@@ -1,10 +1,10 @@
-## HR Operations / Attrition Analysis
+## HR Attrition Analysis
 
 This project analyzes Employee Attrition (Staff Depletion) for an HR/Operations team using:
 
-    - **Excel** for KPIs, pivot tables, and an interactive dashboard  
-    - **MySQL** for SQL-based analysis  
-    - **BA-style documentation** of findings and recommendations  
+    - Excel for KPIs, pivot tables, and an interactive dashboard  
+    - MySQL for SQL-based analysis  
+    - BA-style documentation** of findings and recommendations  
 ---
 
 ## 🎯 Business Question
@@ -13,10 +13,6 @@ This project analyzes Employee Attrition (Staff Depletion) for an HR/Operations 
     - Which departments and roles are losing people the fastest?  
     - Which age and tenure segments are at the highest risk?  
     - What actions HR can take to reduce attrition?
-
----
-
-## 📂 Project Structure
 ---
 
 ## 📊 Excel Analysis & Dashboard
